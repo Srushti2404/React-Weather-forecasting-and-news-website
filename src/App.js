@@ -7,7 +7,8 @@ function App() {
   const [news, setNews] = useState([])
 
   const fetchNews = () => {
-    axios.get("https://newsapi.org/v2/everything?q=indian%20weather%20forecast&from=2023-09-18&sortBy=publishedAt&apiKey=e723776de34d4c74be106dcc0aa9a247")
+    // you can get your news api key by sign in to newsapi.org//
+    axios.get("Enter your news api key here")
       .then((response) => {
         console.log(response);
         setNews(response.data.articles)
