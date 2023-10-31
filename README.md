@@ -12,12 +12,12 @@ DONE </br>
 
 ## 🔨Built Using
 <img height="40" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-1024.png" />
+
 ## 📋 Libraries used:
-<ol>
 <li>React Router</li>
 <li>Axios</li>
 <pl></pl>
+
 ## APIs Used:
 </br><a href="https://openweathermap.org/">Open Weather API</a>
 </br><a href="https://newsapi.org/">News API</a>
-<ol>
