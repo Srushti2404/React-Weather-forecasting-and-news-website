@@ -20,4 +20,4 @@ DONE </br>
 
 ## APIs Used:
 <a href="https://openweathermap.org/">Open Weather API</a>
-<a href="https://newsapi.org/">News API</a>
+</br><a href="https://newsapi.org/">News API</a>
