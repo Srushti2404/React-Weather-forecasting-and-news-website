@@ -16,7 +16,7 @@ DONE </br>
 <ol>
 <li>React Router</li>
 <li>Axios</li>
-</ol>
+
 ## APIs Used:
 </br><a href="https://openweathermap.org/">Open Weather API</a>
-<a href="https://newsapi.org/">News API</a>
+</br><a href="https://newsapi.org/">News API</a>
